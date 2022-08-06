@@ -1,4 +1,4 @@
-## Hi 👋 Therer!! Eu sou a Rita Hecht iniciante na programação!!!
+## Hi 👋 !! Eu sou a Rita Hecht iniciante na programação!!!
 
 <img align="right" height="150"  src="https://publicdomainvectors.org/photos/under-construction_geek_woman.png">
 
