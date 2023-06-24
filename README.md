@@ -22,7 +22,11 @@ Curso de ADS. Análise e Desenvolvimento de Sistema!!
    <img align="center" alt="Python"  width="70"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="java"  width="70"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" />
    <img align="center" alt="Mysql"  width="70"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="postGre"  width="70"src="https://github.com/ritahecht/ritahecht/assets/89950512/b8c3c9a2-d210-4aa5-a007-df595b037727" />
     <img align="center" alt="Html"  width="70"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
     <img align="center" alt="Css"  width="70"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
-  
+    <img align="center" alt="JavaScript"  width="70"src="https://github.com/ritahecht/ritahecht/assets/89950512/a11d575b-0a42-4e79-a1ab-1d787d9c78f7"/>
+     <img align="center" alt="React"
+     width="70"src="https://github.com/ritahecht/ritahecht/assets/89950512/08a00ff1-9c24-4abb-8217-041fd1a62386"/>
+        
 </div><br/>
