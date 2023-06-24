@@ -1,10 +1,7 @@
 ## Hi 👋 !! Eu sou a Rita Hecht iniciante na programação!!!
 
-<img align="right" height="150"  src="https://publicdomainvectors.org/photos/under-construction_geek_woman.png">
-
-
-<a href="https://fatecsjc-prd.azurewebsites.net/index.php" target="_blank"><img height="40" src="https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png"> Estudo na Faculdade Federal Fatec Sjc!!
-Curso de ADS. Análise e Desenvolvimento de Sistema!! 
+<a href="https://fatecsjc-prd.azurewebsites.net/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/90328117/161254359-c6392c85-9f18-4993-9dbf-f1057c8d5a83.png"> <p> Estudante na Faculdade Federal Fatec Sjc!!
+Cursando 3ºSemestre de ADS. Análise e Desenvolvimento de Sistema. 
 
 
 
