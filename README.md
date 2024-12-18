@@ -12,6 +12,10 @@ Cursando 6ºSemestre de ADS. Análise e Desenvolvimento de Sistema.
 
 
 ![Rhfp2104 GitHub stats](https://github-readme-stats.vercel.app/api?username=ritahecht&show_icons=true&theme=cobalt&count_private=true)
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritahecht&theme=tokyonight)](https://git.io/streak-stats)
+
 
 # Tecnolgias Usadas
 
