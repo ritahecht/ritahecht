@@ -11,7 +11,7 @@ Cursando 6ºSemestre de ADS. Análise e Desenvolvimento de Sistema.
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-![Rhfp2104 GitHub stats](https://github-readme-stats.vercel.app/api?username=ritahecht&show_icons=true&theme=cobalt&count_private=true)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritahecht&theme=tokyonight)](https://git.io/streak-stats)
