@@ -1,7 +1,6 @@
-## Hi 👋 !! Eu sou a Rita Hecht fazendo parte de desenvolvimento na programação!!!
+## Hi 👋!! Eu sou a Rita Hecht, Desenvolvedora Front-End e Designer de UX/UI.
 
-<a href="https://fatecsjc-prd.azurewebsites.net/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/90328117/161254359-c6392c85-9f18-4993-9dbf-f1057c8d5a83.png"> <p> Estudante na Faculdade Federal Fatec Sjc!!
-Cursando 6ºSemestre de ADS. Análise e Desenvolvimento de Sistema. 
+<a href="https://fatecsjc-prd.azurewebsites.net/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/90328117/161254359-c6392c85-9f18-4993-9dbf-f1057c8d5a83.png"> <p> Sou desenvolvedora e responsável pela criação, manutenção e atualização de sistemas, atuando tanto na parte técnica quanto na experiência do usuário (UX). Foco no desenvolvimento de interfaces visuais intuitivas e funcionais, garantindo que os usuários tenham uma interação fluida e agradável. Meu trabalho envolve desde o design de layouts atraentes até a implementação de funcionalidades, além da automação de processos utilizando JavaScript, sempre com o objetivo de otimizar e melhorar a experiência digital. 
 
 
 
